@@ -1,2 +1,2 @@
-# Ini adalah README.md dari branch development
-Latihan awal untuk membuat project bersama teman.
+# Ini adalah README.md dari repository Latihan-Branch
+Latihan Merge Conflict, ini yang pertama, branch main.
